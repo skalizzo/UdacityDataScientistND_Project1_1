@@ -15,9 +15,9 @@ The code should run with no issues using Python versions 3.*. I've used the foll
 
 ## Project Motivation<a name="motivation"></a>
 
-This is an Udacity Nanodegree project. I have chosen the Airbnb Seattle dataset from Kaggle. 
+This is an Udacity Nanodegree project where we should choose a dataset, analyze it and then write a blog post about it. 
 
-As a frequent Airbnb renter I found it interesting to to apply data analysis skills here. 
+I have chosen the Airbnb Seattle dataset from Kaggle. As a frequent Airbnb renter I found it interesting to to apply data analysis skills here. 
 
 My key interests would be:
 
