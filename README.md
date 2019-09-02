@@ -36,7 +36,7 @@ There is also a notebook available here to showcase all my work related to my th
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the [post](https://medium.com/p/fb185976fcd6/edit) available
+The main findings of the code can be found at the [post](https://medium.com/@christian00richter/does-it-matter-if-youre-a-superhost-fb185976fcd6) available
 
 
 
