@@ -21,9 +21,10 @@ I have chosen the Airbnb Seattle dataset from Kaggle. As a frequent Airbnb rente
 
 My key interests would be:
 
-1. What are the most influential factors that influence the price of an Airbnb apartment?
-2. What difference does it make if the host is considered a "superhost" by Airbnb?
-3. What model is best suited to predict prices for this dataset?
+1. What difference does it make if the host is considered a "superhost" by Airbnb?
+2. What are the average prices per zip code for Airbnb listings in Seattle?
+3. What are the most influential factors that influence the price of an Airbnb apartment?
+4. What model is best suited to predicting prices for this dataset?
 
 ## File Descriptions <a name="files"></a>
 
